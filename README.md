@@ -21,3 +21,9 @@ kaggle datasets download -d noriuk/us-educational-finances
 ```
 kaggle datasets download -d noriuk/us-educational-finances
 ```
+
+#### Install Requirements
+
+```
+python -m pip install -r requirements.txt
+```
