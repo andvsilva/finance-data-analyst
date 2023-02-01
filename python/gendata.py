@@ -24,11 +24,11 @@ start_time = time.time()
 # time - multithreading
 start = time.perf_counter()
 
-print("----------------------------- DATABASE ----------------------------") 
+print("----------------------------- DATABASE -----------------------------------------------------") 
 df = fd.generate_fakedata(nrows=number_of_clients)
 # display the database
 print(df)
-print("-------------------------------------------------------------------") 
+print("--------------------------------------------------------------------------------------------") 
 
 #print("saving the file format feather...")
 # this is important to do before save in feather format.
