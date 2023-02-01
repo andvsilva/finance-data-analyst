@@ -1,101 +1,101 @@
 ,date,cca,ccb,descricao,debito,credito,movimentacao,cc_id,cc_descricao,grupo,subgrupo,detail,cenario,grupo_empresarial,empresa
-0,2022-12-25,5611,2133,Melody Rubio,996554,274446,818490,777301,Danielle Scott,Malawi,"Scientist, marine",Brian Allen,Mauritania,Omani rial,Jeremy Brown
-1,2023-01-29,5092,3424,Lisa Smith,905437,372603,50940,239088,Jessica Haley,Slovenia,Community development worker,Ashley Krueger,Iceland,Seborga luigino,Melinda Cherry
-2,2022-12-05,3482,9173,Henry Walsh,480749,364925,354823,811979,Jeremy Martin,Cuba,"Designer, industrial/product",Cynthia Green,Nicaragua,United Arab Emirates dirham,Charles King
-3,2022-12-04,6093,7783,Karen Price,110529,161925,99991,871814,Duane Mitchell,Pitcairn Islands,Neurosurgeon,Linda Russell,Uzbekistan,Turkmenistan manat,Jessica Schmidt
-4,2022-11-06,4596,4471,Tyler Herman,413099,18344,293806,366892,Alexandra Griffin,Cuba,Scientific laboratory technician,Brent Salinas,Timor-Leste,Mongolian tugrik,Heather Smith
-5,2023-01-21,1922,7921,Daniel Saunders,930353,618839,587161,434072,Darren Burke,Lao People's Democratic Republic,Forensic scientist,Brenda Snow,Kuwait,Vanuatu vatu,Joseph Snow
-6,2022-11-18,5224,7693,Karen Crosby,215721,980572,566517,673618,Christine Lambert,Moldova,Ceramics designer,Amanda Harding,Lesotho,Singapore dollar,Gregory Morris
-7,2023-01-09,3738,8533,Ricky Navarro,734590,807477,632757,426286,Jacqueline Lee,Kenya,Production manager,Bianca Jackson,Cocos (Keeling) Islands,Maldivian rufiyaa,Shelley Smith
-8,2022-11-24,7636,7416,Roy Harris,437145,575229,717385,904941,Taylor Gibson,Falkland Islands (Malvinas),Hospital doctor,Philip Wallace,Guam,Swedish krona,Anna Smith
-9,2022-11-23,3830,3338,Brittany Hurley,955458,750819,625297,431712,Daniel Wall,Jordan,Dance movement psychotherapist,Christine Chung,Niger,Mauritian rupee,Ruth Gomez
-10,2022-11-24,6272,9055,Michelle Mcclure,492978,829984,855976,291997,Andrew Mccarthy,Chad,"Teacher, English as a foreign language",Angela Taylor,Ukraine,Tanzanian shilling,Katherine Velasquez
-11,2023-01-24,1428,5697,Juan Rogers,960929,87466,763052,547591,Christina Hamilton,Argentina,"Horticulturist, amenity",Steven Collins,Cameroon,Pound sterling,Gabriel Russell
-12,2023-01-27,3083,8355,Stacey Smith,246320,590239,500632,371659,Sheila Smith,Montserrat,Tax adviser,Darlene Jennings,Poland,Namibian dollar,Brian Hicks
-13,2022-11-03,7586,7969,Amber Jackson,527215,522251,867103,364733,Bryan Clark,Bahrain,Leisure centre manager,Alexandra Sims,Cocos (Keeling) Islands,Mexican peso,Zachary Brown
-14,2022-11-19,6081,8924,Colin Sexton,153509,19123,135190,889551,Karen Gordon,Japan,"Engineer, manufacturing",Jared Moore,Comoros,Central African CFA franc,Keith Hale
-15,2023-01-05,9225,8433,Taylor Bauer,958416,399748,159665,152004,David Combs,Andorra,"Engineer, chemical",Jeremy Cox,Papua New Guinea,Angolan kwanza,Kenneth Woods
-16,2022-11-17,3529,2478,Matthew Harris,470105,504855,173886,444635,Elizabeth Andersen,Pitcairn Islands,"Journalist, newspaper",David Craig,South Africa,Afghan afghani,Joshua Perez
-17,2023-01-24,5357,2653,Jennifer Silva,700033,487595,261079,272523,Dominique Sandoval,Benin,"Administrator, Civil Service",Phillip Robertson,Germany,Dominican peso,Adrian Thompson
-18,2022-11-05,7590,4273,Robert Jackson,462660,326555,732145,589735,Nicholas Blankenship,Malawi,"Designer, exhibition/display",Dylan Mcdaniel,Reunion,Turkmenistan manat,Robin Parrish
-19,2022-11-28,8340,5670,John Pope,86707,183084,487997,524863,Angela Hernandez,British Virgin Islands,Planning and development surveyor,Mary Smith,Equatorial Guinea,Maldivian rufiyaa,Mrs. Megan Phillips MD
-20,2023-01-29,5306,4076,Gary Blake,339624,155421,948823,953416,Travis Lee,Syrian Arab Republic,Theme park manager,Barry Mcdonald,Central African Republic,Liberian dollar,Jennifer Meyers
-21,2022-12-23,4688,8308,James Brown,783447,11006,307924,203727,Kiara Williams,Ireland,Education administrator,Jennifer Wood,Lesotho,Polish zloty,Raymond Parker
-22,2022-11-29,8272,9125,Cassandra Graham,33008,893207,463565,869872,Laura Wagner,Chile,Medical illustrator,Jeffrey Carroll,Macao,Brunei dollar,Nathan Baxter
-23,2023-01-19,6713,7993,Melissa Davis,385938,46992,917003,785876,Theresa Cameron,Andorra,Diplomatic Services operational officer,Jason Watkins,Indonesia,Vanuatu vatu,Ryan Thompson
-24,2022-12-16,4334,3922,Jerome Brown,729974,721034,510132,293299,Steven Brown,Puerto Rico,Ranger/warden,Paul Walker,Croatia,Brunei dollar,James Smith
-25,2023-01-07,4355,8203,Heidi Robinson,177557,260311,424259,888701,William Bowen,Estonia,Product designer,Gregory Adams,Serbia,Bermudian dollar,Joanne Hughes
-26,2022-12-27,8008,1340,Brandi Taylor,290590,162534,800084,187051,Melanie Reed,Macao,Barrister's clerk,Dustin Kane,Cuba,Egyptian pound,Melissa Valdez
-27,2023-01-04,7680,9810,Francisco Henson,518912,664144,179449,673231,Tammy Scott,Liberia,"Engineer, civil (contracting)",Kristine Acevedo,Grenada,Algerian dinar,Duane Petty
-28,2022-11-17,3297,4250,Willie Rowland,177359,242215,179037,673517,Nathan Butler DDS,Iceland,Accounting technician,Jose Rodriguez,Micronesia,South Korean won,Dustin Carrillo
-29,2022-12-10,3270,4907,Kaitlin Hogan,330014,889579,898167,356597,Nicole Andrews,Tonga,Waste management officer,Heather Jackson,Martinique,Bolivian boliviano,Jillian Becker
-30,2023-01-13,1746,2730,Cory Blanchard,313526,665066,410971,809468,Wendy Walters,Dominican Republic,"Surveyor, insurance",Robert Pacheco,Samoa,Jersey pound,John Macdonald
-31,2023-01-01,7673,6153,Andrea Fisher,195717,43703,947211,592028,Joshua Davis,Cuba,Accommodation manager,Kelly Kelly,Somalia,Mongolian tugrik,Caleb Brown
-32,2023-01-13,6140,4381,Michael Walker,657768,666494,135464,292511,Lisa Burton,Eritrea,Nutritional therapist,Joseph Allen,Namibia,Namibian dollar,John Harrington
-33,2022-11-11,4937,2232,Thomas Bowman,839438,522845,469134,984793,Michelle Johnson,Cocos (Keeling) Islands,Pathologist,Dana Ward,Falkland Islands (Malvinas),United Arab Emirates dirham,Rachael Brown
-34,2023-01-10,9252,9935,Stacie Washington,411726,907924,990406,134882,Diana Briggs,Macedonia,Tourism officer,Howard Davidson,India,Croatian kuna,Jared Burton
-35,2023-01-10,8103,4398,Ryan Ortiz,155656,364018,901069,822900,Laurie Guerrero,Liechtenstein,"Engineer, biomedical",Jesse Villarreal,Moldova,Burmese kyat,Brianna Santos
-36,2022-11-27,9730,6197,Crystal Ramirez,239459,24706,634973,295587,Vanessa Watson,Iraq,Heritage manager,Thomas Ferguson,Brazil,Zimbabwean dollar,Kelly Lewis
-37,2022-12-22,9617,2743,Alicia Green,251226,737723,94455,826438,Brenda Taylor,Kuwait,Occupational psychologist,Tara Phillips,Liechtenstein,Lao kip,Wendy Webb
-38,2022-11-28,4837,3514,Ronald Washington,824753,647171,577515,356600,Kelly Sanders,Vietnam,Insurance risk surveyor,Andrew Duarte,Micronesia,Saudi riyal,Jeffrey Mendoza
-39,2023-01-06,5823,3718,Joanna Bailey,590426,652202,775358,701463,Jeffrey Brown,Nauru,"Designer, graphic",Allison Todd,Wallis and Futuna,Indian rupee,Michael Fisher
-40,2022-11-11,4546,7000,Joseph Orr,737401,500940,791276,907423,Kenneth Bush,Taiwan,Counselling psychologist,Elizabeth Keller MD,Australia,Swedish krona,Kathleen Scott
-41,2022-11-30,5001,4230,Brett Wood,170853,690822,795268,819968,Leslie Fowler,Micronesia,Trading standards officer,Shawn Clark,Vietnam,Brunei dollar,Valerie Adams
-42,2022-11-14,8144,7233,Tara Wagner,793732,713847,881448,255168,Craig Frank,Chad,Contractor,Pamela Foley,Norway,Jamaican dollar,Dwayne Perez
-43,2022-12-06,9474,2463,Larry Mejia,2383,231140,587881,917038,Sabrina Meyer,Bangladesh,Illustrator,Lauren Green,Ireland,Central African CFA franc,Kimberly Sosa
-44,2022-11-15,8943,2181,Dr. Kelly White,492159,593121,820240,641388,Paul Frazier,Afghanistan,"Teacher, adult education",Mrs. Jacqueline Carr,Sri Lanka,Japanese yen,Kelly Forbes
-45,2022-11-22,6351,2053,Jason Dickson,588391,512391,402115,911478,John Clark PhD,Maldives,Animator,Jill Brown DDS,Belarus,Albanian lek,Paige Hart
-46,2022-11-08,4495,3730,Joshua Mcmahon,910396,11526,877467,262128,Grant Ramirez,New Caledonia,"Engineer, materials",Courtney Lambert,Congo,Venezuelan bolívar,Travis Jackson
-47,2023-01-11,3714,1519,Jonathan Gordon,849796,530758,898656,622609,Mathew Bryant,Nigeria,Microbiologist,Eddie Nelson,Suriname,Hungarian forint,Jean Martinez
-48,2022-11-25,9260,6555,Amanda Huffman,914830,970199,812688,385110,Erica Castro,United Arab Emirates,Trade mark attorney,David Dunlap,Saudi Arabia,Guinean franc,Diane Harris
-49,2022-11-14,6321,6528,Sean Hubbard,724309,530179,824141,368765,Jennifer Lynch,Switzerland,Regulatory affairs officer,Nicholas Walker,Indonesia,West African CFA franc,Peter Michael
-50,2022-11-18,7045,9063,Sheila Anderson,905577,63853,630093,703846,Eric Whitney,United Kingdom,Music tutor,Tim Little,Bhutan,Costa Rican colón,Kristen Mason
-51,2022-11-10,5060,7513,Danny Daniels,508839,790521,852232,993641,Michaela Meyers,Venezuela,Animator,Amanda Williams,Myanmar,Algerian dinar,Jamie Schroeder
-52,2022-11-13,1205,7949,Kathleen Roberts,424626,859422,305221,306198,Mr. Ronald Stein,Macao,Medical technical officer,Ann Owens,Malaysia,Special drawing rights,Justin Fox
-53,2023-01-07,8765,2712,Elizabeth Thompson,886284,993576,972666,471987,Scott Prince,Jordan,Economist,Benjamin Reed,Germany,Vietnamese đồng,Erin Wilson
-54,2022-12-07,8576,5707,John Williams,226658,948022,554083,624843,Mary Conway,Tonga,Social worker,Ashley Lopez,Argentina,Kenyan shilling,Tammy Camacho
-55,2022-12-12,7463,6357,Maurice Morgan,476960,662669,588004,460272,Nicholas Rodriguez,Sierra Leone,"Scientist, physiological",Joseph Davis,Albania,Tunisian dinar,Joshua Cervantes
-56,2023-01-09,8560,7077,Carrie Austin,419753,87850,229602,202909,Susan Li,Vanuatu,Media planner,Bradley Pacheco,Ireland,Surinamese dollar,Dylan Gray
-57,2023-01-13,8281,3062,Brian Robinson Jr.,542943,743414,990242,744092,Samuel Reed,Macao,Product/process development scientist,Nancy Williams,Afghanistan,Albanian lek,Maria Knight
-58,2022-12-19,7371,2477,Ashley Richard,523834,899946,650278,454307,Hailey Green,Nigeria,Financial controller,James Sanders,Equatorial Guinea,Namibian dollar,Misty Miles
-59,2023-01-20,9868,1186,Jason Bowman,67848,364269,612899,149126,Robin Hall,Central African Republic,Probation officer,Kevin Odonnell,Cuba,Hungarian forint,Ryan Perkins
-60,2023-01-18,2850,2839,Lisa Jackson,717828,873129,862284,501744,James Leon,Korea,"Designer, ceramics/pottery",Lauren Schneider,Moldova,Macanese pataca,Johnny Murphy
-61,2023-01-30,1029,3013,Elizabeth Cameron,841033,439332,77572,552493,Ms. Maureen Collins MD,Brunei Darussalam,Medical illustrator,Steven Washington,El Salvador,Malawian kwacha,Michael Carter
-62,2022-12-25,8035,1437,Julie Ortiz,293921,117458,761133,836079,Stephanie Hoover,Montenegro,"Psychotherapist, child",Linda Green,Heard Island and McDonald Islands,North Korean won,Molly Jones
-63,2022-11-03,7174,8207,Sonya Roberts,878306,648532,474240,841196,Scott Barrett,French Southern Territories,Web designer,William Scott Jr.,Libyan Arab Jamahiriya,Burundian franc,Jorge Obrien
-64,2023-01-02,8830,6087,Peter Moody,875922,136235,909741,104562,Victoria Bowman,Samoa,Systems developer,Dalton Torres,Japan,Japanese yen,Willie Williams
-65,2023-01-09,8225,5036,Virginia Richmond,374809,756954,109428,995813,Rhonda Williams,Guernsey,Magazine journalist,Sheri Jones,Netherlands,Syrian pound,Rebecca Moore
-66,2022-12-23,4904,9658,Kelli Ortega,625505,78859,712483,759754,Kenneth Jones,Palestinian Territory,Gaffer,Katrina Gonzalez,Uzbekistan,Uzbekistani soʻm,Elizabeth Santiago
-67,2022-12-05,2214,6987,Thomas Medina,745670,947245,613419,575357,Dr. Steven Jenkins,Lesotho,Equality and diversity officer,Cheryl Walker,Afghanistan,Mozambican metical,Cody Hinton
-68,2022-12-04,9118,2702,Michael Thompson,45872,89406,740438,831046,Jessica Miller,Niue,Waste management officer,John Small,Ethiopia,Papua New Guinean kina,Andrew Young DDS
-69,2022-12-27,4880,9288,Patrick Johnson,314612,166655,785618,469896,Caitlin Pearson,Australia,"Surveyor, minerals",Joseph Mclaughlin,Vietnam,Philippine peso,Janet Jensen
-70,2023-01-04,4250,6720,Rebecca Lewis,293017,254592,986458,286085,Steven Mercado,Burundi,Legal secretary,Melody Prince,Bahamas,Cape Verdean escudo,Allen Blankenship
-71,2023-01-08,1285,5888,Jennifer Johnson,264052,914568,755173,310281,Carrie Carney,Paraguay,Games developer,Terry Hernandez,Korea,Congolese franc,Jasmine Walton
-72,2023-01-25,8896,6537,Andrea Sanchez,862016,416132,8343,246103,Richard Hebert,Mexico,Dramatherapist,Amy Baxter,Comoros,Somali shilling,Daniel Smith
-73,2022-11-29,6347,2462,Brittney Johnson,330282,921704,269051,706087,Jennifer Gonzalez,Tanzania,Quantity surveyor,Heather Hall,Saint Helena,Romanian leu,Mary Shelton
-74,2022-12-07,8443,5135,Jocelyn Hill,620393,246553,827065,503971,Michael Wilson,Burundi,"Loss adjuster, chartered",Blake Rodriguez,Kiribati,New Zealand dollar,Nathaniel Wilson
-75,2022-11-04,9794,5418,Tyler Thompson,581597,47298,377473,879193,Stephen Mitchell,Denmark,Licensed conveyancer,Kimberly Vargas,Belgium,Guyanese dollar,Jeff Ballard
-76,2023-01-18,5144,8594,Melinda Ward,58676,44047,732866,831342,Lindsey Higgins,Guernsey,Waste management officer,Courtney Miller,Trinidad and Tobago,Nigerian naira,Jessica Moore
-77,2023-01-19,3049,9275,Maria Atkins,150143,865735,351250,920504,Jerry Walsh,Gambia,Educational psychologist,Kyle Barker,Mongolia,Panamanian balboa,Hunter Cooper
-78,2023-01-07,1424,8172,Barbara Jefferson,174805,412391,44230,848224,Anthony Cline,Sudan,Physiotherapist,Robert Griffin,Bulgaria,Salvadoran colón,John Ellis
-79,2022-11-19,1471,5914,Rebecca Conner,94711,715053,549307,373263,Richard Hernandez,Bermuda,Oncologist,Heather Mason,Eritrea,Burmese kyat,Darin Martinez
-80,2022-12-04,9015,1535,Alexander Graves,525241,747731,359814,902994,Debra Gonzalez,Panama,Phytotherapist,Robert Rubio,Mauritius,Syrian pound,Patricia Taylor
-81,2022-11-18,3225,7690,James Wilson,121952,279327,617384,444394,Ashley Kirk,Sao Tome and Principe,Museum/gallery exhibitions officer,Krystal Larson,Guatemala,Yemeni rial,Amy Juarez
-82,2022-12-13,2126,7930,Dr. Heidi Spencer DVM,43285,23204,218277,999717,Richard Marks,Bolivia,Health and safety adviser,Kimberly Gonzalez,Central African Republic,Euro,Mr. Michael Cole
-83,2022-11-14,8406,2306,Sarah Cook,152996,482872,209151,812374,Crystal Lewis,British Virgin Islands,Logistics and distribution manager,Lisa Esparza,Netherlands Antilles,Moldovan leu,Sarah Bentley
-84,2022-12-31,9099,9620,James Fernandez,452902,899674,428341,922283,Erin Harris,Croatia,Product/process development scientist,Aaron Bailey,Tonga,Hong Kong dollar,Danielle Miller
-85,2022-11-06,4845,8380,Shawn Dean,751747,683792,730511,169216,Regina Horn,Finland,"Runner, broadcasting/film/video",Holly Harris,Guinea,Canadian dollar,Alyssa Hickman
-86,2023-01-03,8828,1792,Cindy Morris,519722,236645,282776,868347,Timothy Martinez,Anguilla,"Administrator, local government",Randall Boone,Turkey,Macedonian denar,Angel Frederick
-87,2022-12-14,3520,6785,Briana Navarro,557955,507250,812240,870994,Drew Curry,New Zealand,"Embryologist, clinical",Anita Keith,Korea,Thai baht,John Conley
-88,2022-11-04,7550,2015,Erin Lee,148391,37018,249580,759564,Robert Smith,Luxembourg,"Presenter, broadcasting",Jason Anderson,Malawi,Turkmenistan manat,Jessica Best
-89,2022-11-17,4529,3102,Lisa Landry,425490,548753,278451,139977,Sarah Martinez,Philippines,Site engineer,Kimberly Henry,Falkland Islands (Malvinas),Lesotho loti,Patrick Myers
-90,2022-12-24,5076,2447,Rachel Estrada,125920,506002,700480,623952,Jamie Pierce,Djibouti,Cabin crew,Leslie Pennington,Taiwan,Kenyan shilling,Travis Dickson
-91,2022-12-27,8293,2342,Courtney Mitchell,673047,468149,94301,567266,Morgan Park,Christmas Island,Systems developer,Carrie Rodriguez,Burundi,Fijian dollar,Dylan Harris
-92,2022-12-22,1293,3755,Jose Burgess,272909,538695,492681,872568,David Wilcox,Australia,Lexicographer,Brittney Hicks,Egypt,New Taiwan dollar,Joseph Webb
-93,2022-12-08,6489,9049,Scott Bernard,651520,144914,396214,256860,Pamela Jones,Togo,"Engineer, automotive",Susan Knight,Togo,Lesotho loti,Philip Hall
-94,2022-12-18,6410,4534,Samantha Khan,140171,897999,127261,422695,Leroy Wall,Hungary,Newspaper journalist,Luke Howard,Guinea,Cambodian riel,Melissa Ball
-95,2022-11-17,4517,8255,Daniel Underwood,29797,720513,759244,226185,John Mcbride,Cuba,Medical physicist,James Moore,Denmark,Zimbabwean dollar,Michael Byrd
-96,2023-01-13,6993,9850,Jeremy Walker,259125,121849,58706,589375,Bob Parker,San Marino,Dealer,Matthew Stewart,Papua New Guinea,Colombian peso,Preston Foster
-97,2022-12-04,1293,9053,Raven Wood,383737,520275,517920,687566,Brooke Murphy,Bosnia and Herzegovina,Legal executive,Daniel Fisher,Tunisia,Burmese kyat,Maria Molina
-98,2022-12-27,1240,8979,Tina Kim,37102,70916,656113,745334,Christopher Cole,Japan,Furniture designer,Michele Dunlap,Netherlands,Malagasy ariar,Joshua Rodriguez
-99,2022-11-19,9998,2758,Dr. Kimberly Willis,294198,625148,36358,691546,Melanie Hays,Albania,"Nurse, mental health",Sara Allison,Bosnia and Herzegovina,Botswana pula,John Rice
+0,2023-01-03,8608,1409,Kelly Hernandez,567060,42586,497165,491551,Gary Lowe,Western Sahara,"Engineer, communications",Fred Marshall,Maldives,Trinidad and Tobago dollar,Russell Woodard
+1,2022-11-16,9020,5033,Michael Wilkinson,132674,776325,951505,511062,Catherine Robinson,Madagascar,"Conservator, museum/gallery",Samantha May,Cyprus,Dominican peso,Courtney Hopkins MD
+2,2023-01-18,2945,3968,James Blankenship,398416,542904,316851,198639,Megan Reynolds,Hong Kong,Textile designer,Laura Guerra,Central African Republic,Paraguayan guarani,Emily Brown
+3,2023-01-05,2086,1609,Eric Porter,696861,839881,99553,352042,Bruce Russell,Samoa,"Scientist, physiological",Erin Newton,Canada,Belarusian ruble,Sharon Jones
+4,2022-11-21,5482,2593,Stacey Hodges,233882,338897,700719,656713,Annette Harvey,Chad,Metallurgist,Michael Johnson,Argentina,Costa Rican colón,Matthew Gray
+5,2023-01-28,6265,9877,Miguel Scott,271276,563122,185634,300492,Victoria Rojas,Niger,Architectural technologist,Derrick Smith,Iran,Bosnia and Herzegovina convertible mark,Connie Huynh
+6,2022-12-07,8674,2674,Travis Silva,629815,807929,129266,290884,Joseph Owens,Solomon Islands,Hotel manager,Tara Salas,Netherlands Antilles,Lithuanian litas,Anthony Barber
+7,2022-11-28,1760,9356,Ashley Lynch,863771,497177,917627,438428,Dennis Mcclure,Honduras,Patent attorney,Tyler Williams,Myanmar,Guyanese dollar,Gary Lewis
+8,2022-12-04,6226,7536,Patricia Owens,386081,424501,987008,165569,Ryan Brown,Bermuda,Medical secretary,Brandon Hess,Ukraine,Kuwaiti dinar,Raymond Kelley
+9,2022-12-27,4798,2136,Jennifer Morris DVM,392342,896722,663926,495400,Scott Meyer,Chile,Leisure centre manager,Benjamin Robinson,Chad,Japanese yen,David Lawson
+10,2022-11-08,9199,5515,Yvonne Lee,3771,368640,995160,592700,Courtney Wilson,Argentina,Merchant navy officer,Paula Patterson,Saint Pierre and Miquelon,Venezuelan bolívar,Anthony Garza
+11,2023-01-29,8097,9853,Michael Castillo,847141,535233,111858,254142,Garrett Watson,Bulgaria,"Surveyor, planning and development",Kristen Berger,South Africa,Peruvian sol,Colleen Perez
+12,2023-01-09,2115,2346,Jeremy Rhodes,962345,110944,702179,800249,Bonnie Sherman,Swaziland,"Engineer, automotive",Kyle Mcdaniel,Estonia,United Arab Emirates dirham,Angela Mendoza
+13,2023-01-05,3554,5162,Alisha Benjamin,939357,975210,388870,175497,Matthew Logan,French Guiana,Mechanical engineer,Timothy Farmer,Ghana,Brunei dollar,Dustin Swanson
+14,2022-11-24,6648,8594,George Collins,269874,214016,796932,171110,Misty Santos,Saint Pierre and Miquelon,Chiropodist,Eric Maddox,Senegal,West African CFA franc,Kurt Jennings
+15,2022-12-17,4461,9418,Larry Mccormick,496574,213402,255561,592216,John Williams,British Virgin Islands,"Surveyor, planning and development",Shawn Jones,Madagascar,Russian ruble,Sandra Clark
+16,2022-12-29,4772,7460,Charles Acevedo,474135,338877,999249,593319,Zachary Fisher,South Georgia and the South Sandwich Islands,Counsellor,Kelly Lee,Antigua and Barbuda,Nicaraguan córdoba,Brent Taylor
+17,2022-11-17,6759,5317,Holly Silva,954864,177216,69234,814497,Nancy Henderson,Switzerland,Building surveyor,Daniel Rodriguez,Slovenia,Egyptian pound,David Guerrero
+18,2022-11-15,1080,6071,Jennifer Moore,113510,969214,64598,956055,David Vance,Montenegro,Petroleum engineer,Theresa Smith,Sao Tome and Principe,Guyanese dollar,Monica Garza
+19,2022-11-24,6403,3934,Sharon Perez,523401,169474,233604,718483,Patricia Newton,Serbia,Information officer,Corey Smith,Bolivia,Israeli new shekel,Derrick Morgan
+20,2022-11-13,2559,3833,Jason Ramsey,319510,351369,477879,100988,Marcus Bates,Grenada,"Journalist, broadcasting",Patrick Barber,Lithuania,Thai baht,Taylor Lewis
+21,2022-11-18,9639,6584,Mrs. Kelsey Davis,721395,196107,62809,551420,Robert Martinez,Tajikistan,Visual merchandiser,Jennifer Waller,Palestinian Territory,Barbadian dollar,Ashley Austin
+22,2022-11-30,4761,5871,Nichole Cole,671969,594648,755811,126992,Pamela Fleming,Sudan,"Production designer, theatre/television/film",Deanna Thompson,Seychelles,Lithuanian litas,Ryan Rivera
+23,2022-12-18,6198,5194,Walter James,560810,636257,548397,698958,Veronica Cooper,Kazakhstan,Dance movement psychotherapist,Heather Grant,Ukraine,Guatemalan quetzal,Cody Salas Jr.
+24,2023-01-27,9137,9570,Amanda Hill,159651,646085,999415,929890,Mrs. Autumn Jones,Ecuador,Special educational needs teacher,Dr. Lonnie Brewer,Switzerland,Comorian franc,Erica Small
+25,2022-11-19,5349,6632,Robin Gutierrez,725588,618322,775522,473049,Thomas Reed,Sudan,Facilities manager,Christopher Gray,Mayotte,Nigerian naira,Jessica Flynn
+26,2022-12-06,9256,8096,Kimberly Barnes,246105,156185,249219,467877,Leslie Morales,Slovakia (Slovak Republic),"Research officer, government",Brenda Lin,Egypt,Rwandan franc,Mr. Stephen Stewart
+27,2023-01-17,8131,2907,Ann Martin,578720,331927,59345,666129,Traci Vargas,Somalia,Housing manager/officer,Jeffrey Terry,Argentina,Renminbi,Benjamin Alvarado
+28,2022-12-25,5144,8894,Shannon Riley,246262,718522,721678,100017,Kyle Green,Puerto Rico,Administrator,Lauren Hicks,Turkey,Venezuelan bolívar,Jerry Cooper
+29,2022-12-06,3462,1490,Taylor Martinez,136377,407719,62816,310620,Blake James,United States of America,"Teacher, adult education",Joseph Olson,Greece,Uzbekistani soʻm,Lori Hayes
+30,2022-11-28,7871,7764,Amanda Perez,530685,801009,423665,862864,Aaron Powers,Reunion,"Development worker, community",Lindsay Wong,Guam,Venezuelan bolívar,Karen Arnold
+31,2022-11-11,7851,5960,Michael Scott,583765,421124,262884,226541,Jason Gamble,Korea,"Programmer, systems",Andrew Anderson Jr.,Kazakhstan,United Arab Emirates dirham,Nichole Little
+32,2023-01-18,6920,3360,Kyle Meyers,740404,32587,237640,173338,Michael Stephens,China,Meteorologist,Andrew Lopez,Bolivia,Jordanian dinar,Mary Simmons
+33,2023-01-05,9103,8423,Jeremy Patterson,197900,734137,777222,209682,Tara Little,Thailand,TEFL teacher,Joseph Curtis,Saint Martin,Colombian peso,Jerry Jones
+34,2023-01-16,1455,3802,Bryan Alvarado,34718,157282,449715,301619,Tim Hall,Dominica,Broadcast presenter,Cameron Garcia,Mongolia,Eritrean nakfa,Laura Smith
+35,2022-12-12,6670,9053,Victoria Ali MD,555888,527415,759346,269289,Lisa Mora,Ireland,Water engineer,Emily Bishop,Afghanistan,Tanzanian shilling,Steven Bradford
+36,2022-11-24,2044,3002,Gregory Jones,295477,874817,576646,633549,Darrell Cabrera,United Arab Emirates,Tourism officer,Anthony Cooper,Palau,Euro,Ellen Lewis
+37,2022-12-08,9151,9165,Valerie Davis,962101,182353,218062,733166,Jason Bryant,Lao People's Democratic Republic,Race relations officer,Angela Carter,Rwanda,Uzbekistani soʻm,Daniel Brown
+38,2023-01-26,2028,3559,Benjamin Hudson,255553,907150,995978,668377,Paul Huff,Malaysia,Freight forwarder,Gary Castillo,Oman,Omani rial,Matthew White
+39,2022-11-09,6904,6535,Bryce Peterson,390759,948742,903283,640902,Matthew Mack,Guam,"Engineer, site",William Gonzalez,France,Rwandan franc,Steve Kelly
+40,2022-11-16,8143,6922,Lynn Meyers,328609,986952,761397,884820,Mrs. Emma Massey DDS,Denmark,"Clinical scientist, histocompatibility and immunogenetics",Donna Matthews,Cyprus,Mongolian tugrik,Andrew Stephens
+41,2023-01-10,1823,1221,Angela Mcconnell,138428,547670,194048,713130,Mary Shaffer,Norfolk Island,Special effects artist,Jerry Valencia,Uruguay,Mauritanian ouguiya,Brenda Gray
+42,2022-11-18,1427,6950,Valerie Bradley,419313,435784,47114,124663,Anthony Esparza,Kiribati,Magazine journalist,Troy Anderson,Yemen,Cayman Islands dollar,Katherine Rodriguez
+43,2022-12-20,2437,8143,Lori Garcia,176728,217299,105771,438182,Andrea Carter,Turks and Caicos Islands,Product manager,Donald Johnson,American Samoa,Malaysian ringgit,Kristin Watson DVM
+44,2022-12-28,5210,9510,Robert Gonzales,842711,508799,21950,388280,Mark Peterson,Brunei Darussalam,Social worker,Sherry Reyes,Wallis and Futuna,Swazi lilangeni,Laurie Olson
+45,2023-01-20,1994,1569,Melinda Fuller,161162,830777,970184,784019,Melissa Stewart,Philippines,Artist,Cindy Pierce,Netherlands Antilles,Belize dollar,Terry Matthews
+46,2022-12-14,5578,2775,Richard French,335659,618445,87965,853163,Christine Ellis,Oman,"Engineer, petroleum",David Mason,Ethiopia,Jordanian dinar,Jeremy Wilson
+47,2022-12-30,3998,8195,Tiffany Taylor,451673,959357,88535,333717,Michael Guzman,Niue,Television floor manager,Adam Myers,Oman,Netherlands Antillean guilder,Tabitha Bryan
+48,2022-12-18,3095,2136,Robert Williams,557342,268411,167347,616394,John Shaffer,Colombia,"Nurse, adult",Olivia Armstrong,Argentina,Bahraini dinar,James Lewis
+49,2022-11-29,2323,7200,Edward Lee,70100,485343,75215,673729,Daniel Bell,Isle of Man,"Production designer, theatre/television/film",Christina Clark,Suriname,Vietnamese đồng,Javier Hampton
+50,2022-11-08,6096,1660,Jonathan Peterson Jr.,709435,622220,625015,738473,Valerie Nguyen,Vietnam,Ceramics designer,Marilyn Cook,Swaziland,Brazilian real,Lawrence Walker
+51,2022-11-09,7848,4731,Aimee Bright,397479,44563,387387,502010,Kristy Frank,Guinea-Bissau,"Engineer, building services",Rebecca Stephens,Antarctica (the territory South of 60 deg S),Bahamian dollar,Rebecca Phillips
+52,2023-01-17,5623,6108,Roy Ortiz,50327,500823,539150,479289,Michelle Mason,Ireland,Land,Robert Flores,Kuwait,Kuwaiti dinar,Nicholas Horton
+53,2022-12-14,5393,7984,Mark Jefferson,801908,802066,398382,163305,Jeffrey Wilson,Guernsey,Clinical research associate,Angela Jones,Japan,Omani rial,Bill Jones
+54,2022-11-08,8733,2683,Daniel Campbell,449675,745556,580724,434017,Carly Baker,Malaysia,"Engineer, energy",Daniel Nelson,Pakistan,Costa Rican colón,David Hines
+55,2022-11-15,2604,3690,Erin Bailey,509136,651158,90121,553301,Melinda Powell,Cayman Islands,Print production planner,Jessica Dougherty,Tonga,Somali shilling,Adam Jones
+56,2022-11-17,3982,5762,Jennifer Douglas,812671,55906,269519,378516,Miss Maria Wiggins,Romania,"Engineer, chemical",Anthony Hughes,Barbados,Djiboutian franc,Curtis Hall
+57,2022-12-15,8209,7862,Doris Ramos,553613,917011,283612,230309,Jacob Garcia,Bahrain,Financial planner,Kevin Berger,Djibouti,Barbadian dollar,Erica Martin
+58,2022-11-18,9976,3307,Lindsey Jones,224925,810030,90308,804991,Patrick Middleton,Syrian Arab Republic,Administrator,Sarah Huffman,Suriname,Singapore dollar,Christopher Trujillo
+59,2022-11-13,5760,4832,Steven Jones,888207,537092,974331,336112,Annette Herring,Bermuda,Telecommunications researcher,Marie Gallagher,Belgium,Jordanian dinar,Jesse Vasquez
+60,2022-11-15,3023,3019,Alexis Torres,860612,459365,980970,302954,Jamie Neal,Kiribati,Computer games developer,Linda Jordan,Papua New Guinea,Panamanian balboa,Jessica Washington
+61,2022-11-06,1434,3571,Dalton Lowe,490401,462727,808087,907722,Chloe Jenkins,Mali,Print production planner,Jason Hampton,Burundi,Jamaican dollar,Sarah Flores
+62,2022-11-26,1397,5841,Allison French,435791,943112,749410,823094,Timothy Kelly,United States of America,"Education officer, community",Brent Johnson,Saint Helena,Czech koruna,Katherine Cooper
+63,2022-12-24,6327,2579,John Thornton,77640,567423,730807,788202,Jeremy Rose,Saudi Arabia,Academic librarian,Emily Jones,New Zealand,Hungarian forint,Joshua Daniels
+64,2023-01-26,2596,2447,Dawn Graham,841049,835326,466399,881140,James Hawkins,Colombia,Physiological scientist,Diane Miller,Vietnam,Colombian peso,Carl Ferguson
+65,2022-11-22,8032,4549,Jacqueline Gilmore,240963,706829,289072,383486,Tina Pearson,Senegal,"Designer, interior/spatial",Frank Smith,Fiji,Polish zloty,Julie Lester
+66,2023-01-22,1685,4652,Christian Rollins,810095,885580,878847,650347,Philip Foster,Maldives,Building control surveyor,Claudia Young,Hong Kong,Botswana pula,Mrs. Stephanie Velez
+67,2022-11-10,4613,2749,George Reed,58893,652570,556107,753145,Kelsey Nguyen,Dominican Republic,Museum/gallery curator,Mary Garcia,Andorra,Panamanian balboa,Brian Howell
+68,2022-12-22,2848,6847,Alexandra Parker,419553,785021,381472,304152,Kelly Choi,Jamaica,Audiological scientist,Michelle Hawkins,Marshall Islands,Kenyan shilling,David Kim
+69,2022-12-06,7954,3675,Katherine Robertson,542089,505408,483061,302061,David Ponce,Western Sahara,Marketing executive,James Turner,Burundi,Fijian dollar,Nicole Mitchell
+70,2022-12-20,8805,7052,Edward Shaw,547241,372172,996868,260759,Tracie Hendricks,Panama,"Designer, fashion/clothing",Stanley Cain,Holy See (Vatican City State),Tajikistani somoni,Daniel Douglas
+71,2022-12-28,2190,3281,Nicole Taylor,169002,349384,437415,125230,Vincent Wood,Slovakia (Slovak Republic),Conference centre manager,Andrew Ballard,San Marino,Sierra Leonean leone,Travis Andrews
+72,2022-11-30,8734,3154,Brandon Snyder,657678,385867,504720,352553,Mike Potter,Benin,Art therapist,Travis Williams,Ecuador,Pound sterling,Edward Harmon
+73,2022-12-25,8617,2828,Russell Johnson,609576,755009,895993,213333,Diana Marquez,Australia,Insurance account manager,Mary Moore,Sri Lanka,Georgian lari,Dr. Deborah Nelson
+74,2022-11-21,5823,1883,Katherine Pineda,100799,92072,710970,325190,Aaron Chavez,Mongolia,Agricultural consultant,Matthew Kelly,Saint Pierre and Miquelon,São Tomé and Príncipe dobra,Stephen Townsend
+75,2022-12-08,9971,6428,Heather Gilmore,564437,520854,408744,794199,Michelle Turner,Vietnam,"Conservation officer, historic buildings",Crystal Adams,Nicaragua,Pound sterling,Samuel Webb
+76,2022-11-21,4494,2095,Shannon Smith,737420,241251,578631,206329,Ann Juarez,Barbados,Chief Strategy Officer,Suzanne Howard,Iceland,Macedonian denar,Diana Davis
+77,2022-11-04,7975,1828,Justin Bennett,164132,51661,934091,914887,Rachel Mccullough,Saudi Arabia,Trading standards officer,Stacie Joseph,Saint Barthelemy,Nicaraguan córdoba,Patrick Nelson
+78,2022-11-16,6859,5055,Tammy Navarro,899676,69273,840864,302969,Dave Martinez,South Georgia and the South Sandwich Islands,Product manager,Karl Franklin,Guinea-Bissau,Mauritian rupee,Kayla Hall
+79,2022-11-15,8714,7642,Alicia Vazquez,559619,439709,843092,423222,Monica Mcgee,Spain,"Solicitor, Scotland",Amanda Meyers,Venezuela,Jamaican dollar,Taylor Mercer
+80,2022-12-29,7205,6631,Christy Hampton,521183,41008,583013,863179,Marilyn Peters,Guinea,"Designer, ceramics/pottery",Christopher Morgan,Kenya,Israeli new shekel,Misty Stanley
+81,2023-01-13,8973,9507,Linda Harris,593886,403319,711787,120421,Jesse Wu,Latvia,Publishing rights manager,Jeffrey Butler,Qatar,Zambian kwacha,Jamie Lewis
+82,2022-11-12,7731,4320,Rose Butler,259242,531029,373477,320679,Debra Walker,Tajikistan,Airline pilot,Karen Hill,Andorra,Central African CFA franc,Peter Nguyen
+83,2023-01-26,9982,6414,William Spencer,44541,297477,932500,660073,Kaylee Johnson,San Marino,Hydrographic surveyor,Matthew Miller,Vanuatu,Bulgarian lev,Jonathan Chavez
+84,2022-11-28,4331,8165,Autumn Baker,359858,197415,338530,176887,Suzanne Mason,China,Translator,Mario Pearson,Estonia,Guyanese dollar,William Hampton DDS
+85,2023-01-25,5224,6453,Wanda Powell,199836,135867,621602,303564,Pamela Little,Congo,"Doctor, general practice",Samantha Palmer,Papua New Guinea,Tanzanian shilling,James Lopez
+86,2022-12-08,1435,9016,Scott Lewis,878643,37257,223962,411715,Jamie French,Slovenia,Volunteer coordinator,Timothy Bates,Malta,Gibraltar pound,Ruben Williams
+87,2022-11-20,1318,6580,Hannah Lopez,794495,233782,477711,547073,Sherri Palmer,Honduras,Chartered public finance accountant,Rodney Fischer,Guyana,Guatemalan quetzal,Natalie Aguilar
+88,2023-01-24,2458,1411,Samuel Robertson,942420,608968,835695,301637,Mr. Matthew Mccarthy,Bouvet Island (Bouvetoya),Museum/gallery conservator,Douglas Gutierrez,Barbados,Ghanaian cedi,Michael Roberts
+89,2023-01-02,7548,7617,Michelle Nunez,568805,262491,192730,395560,Patricia Grant,Paraguay,Hydrographic surveyor,Ashley Campbell,Qatar,Singapore dollar,James Mckay
+90,2022-11-28,7893,6046,Alan Estrada,312016,468515,965460,869962,Diana Clark,Western Sahara,Ship broker,Sara Becker,Mexico,Argentine peso,Jennifer Zimmerman
+91,2022-12-09,8342,9387,Jacqueline Lopez DDS,789218,424759,208143,213669,Sandra Montoya,Estonia,Environmental consultant,Richard Bell,Liberia,South African rand,Steve Castro
+92,2023-01-14,1549,5584,Catherine Kelley,941901,861833,727784,100631,Brittany Whitaker,Cameroon,"Sales professional, IT",Jesus Rodriguez,Papua New Guinea,Haitian gourde,Wesley Pitts
+93,2023-01-03,4791,3971,Anthony Estes,870136,784455,728254,317184,Chris Dean,Mauritania,Oncologist,Cameron Mcmillan,Bosnia and Herzegovina,Bermudian dollar,Richard Sanchez
+94,2022-12-20,5400,3318,Kimberly Johnston,373998,989217,173466,931901,Thomas Jackson,Iraq,Tax inspector,Debra Bruce,Hong Kong,Mongolian tugrik,Zachary Hall
+95,2022-11-24,9885,8567,Laura Jones,279447,675007,344304,675417,Ross Miller,Israel,"Physicist, medical",Ashley Johnson,Jersey,Nepalese rupee,Chad Watson
+96,2022-11-03,2918,8307,David Rogers,653149,5933,709948,573469,Lindsey Alvarez,Guyana,Pension scheme manager,Thomas Bender,Cyprus,Omani rial,Adrienne Davidson
+97,2023-01-08,4227,1191,Breanna King,526405,794629,351285,163764,Elizabeth Bullock DDS,Eritrea,"Engineer, biomedical",Melissa Williams,Paraguay,Icelandic króna,Justin Mills
+98,2022-12-10,7602,8470,Renee Little,555844,281129,576104,318962,Ms. Linda Powell PhD,Nigeria,Theme park manager,Heather Friedman,Iran,Algerian dinar,James Reese
+99,2023-01-18,2211,8555,Joanna Orozco,678892,458279,509409,657113,Crystal Acosta,United Kingdom,Fish farm manager,Thomas Kemp,Greece,Rwandan franc,Gabriela Shannon

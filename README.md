@@ -37,3 +37,13 @@ kaggle datasets download -d noriuk/us-educational-finances
 ```
 python -m pip install -r requirements.txt
 ```
+
+### Generate Fake dataset
+
+``` # generate dataset
+# folder : python
+
+python gendata.py 100
+```
+
+![](/images/generatefakedata.png)
