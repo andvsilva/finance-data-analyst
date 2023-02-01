@@ -32,7 +32,7 @@ print("-------------------------------------------------------------------")
 
 #print("saving the file format feather...")
 # this is important to do before save in feather format.
-#df = df.reset_index(drop=True) 
+df = df.reset_index(drop=True) 
 #df.to_feather('dataset/fakeDatabase.ftr')
 df.to_csv('../dataset/banking.csv')
 tool.release_memory(df)
