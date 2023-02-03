@@ -48,6 +48,10 @@ Just do the download of the file - **AAPL.csv**:
 
 ![](/images/datasetAAPLdownload.png)
 
+### Install Packages:
+
+```pip install -r requirements.txt
+
 #### Dataset
 
 ```
