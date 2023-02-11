@@ -17,19 +17,23 @@ We are going to work with:
 
 Description: 
 
-(WIP = Work in Progress)
-- **Collect data (Web Scrape)**
-  - [x] WIP 
-  - [ ] DONE
-- **Storage data in csv or sql**
-  - [x] WIP 
-  - [ ] DONE
-- **Workaround with the data - output: Results**
-  - [x] WIP 
-  - [ ] DONE
-- **Generate a PDF report and send by e-mail**
-  - [x] WIP 
-  - [ ] DONE
+(**WIP = Work in Progress**)
+- 1 - **Collect data (Web Scrape)**
+  - [x] **WIP** - ```@andvsilva 2023-02-08``` 
+    - Inplementing the ```webdriver``` to access and get data. ([getdata.py](/python/getdata.py))
+      - [WebDriver API](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.webdriver)
+      - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
+      - [Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium/)
+  - [ ] **DONE**
+- 2 - **Storage data in csv or sql**
+  - [x] **WIP**
+  - [ ] **DONE**
+- 3 - **Workaround with the data - output: Results**
+  - [x] **WIP**
+  - [ ] **DONE**
+- 4 - **Generate a PDF report and send by e-mail**
+  - [x] **WIP**
+  - [ ] **DONE**
 
 #### Kaggle
 
