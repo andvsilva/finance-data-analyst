@@ -24,6 +24,7 @@ Description:
       - [WebDriver API](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.webdriver)
       - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
       - [Modern Web Automation With Python and Selenium](https://realpython.com/modern-web-automation-with-python-and-selenium/)
+    - Added: insert username and password in the login field with webdriver ```@andvsilva 2023-02-12```.
   - [ ] **DONE**
 - 2 - **Storage data in csv or sql**
   - [x] **WIP**

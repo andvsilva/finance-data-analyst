@@ -28,12 +28,27 @@ stealth(driver,
         fix_hairline=True,
         )
 
-driver.get('https://www.google.com')
-
+#driver.get('https://www.google.com')
+driver.get('https://login.contaazul.com/?_ga=2.78443218.737391194.1676223898-1924661478.1676223898&_gl=1*ys6rip*_ga*MTkyNDY2MTQ3OC4xNjc2MjIzODk4*_ga_0ZF31QJEMG*MTY3NjIyMzgyNi42LjEuMTY3NjIyNTEwNy42MC4wLjA.#/')
 time.sleep(3)
 
-search = driver.find_element_by_name("q")
-search.send_keys("house")
-search.send_keys(Keys.ENTER)
+#search = driver.find_element_by_name("q")
+#search.send_keys("house")
+#search.send_keys(Keys.ENTER)
 
-time.sleep(5)
+# login and password inputs:
+email = driver.find_element('xpath','/html/body/div[4]/div/div[1]/div/div/div[2]/div/div/div[3]/div/div/form/div/div/div[1]/div/div/div[1]/input')
+password = driver.find_element('xpath', '/html/body/div[4]/div/div[1]/div/div/div[2]/div/div/div[3]/div/div/form/div/div/div[2]/div/div/div[1]/input')
+
+# insert - email and password
+email.send_keys("your_email@gmail.com")
+time.sleep(2)
+password.send_keys("your_password_here")
+time.sleep(3)
+
+# click on the button to login
+button_enter = driver.find_element('xpath','/html/body/div[4]/div/div[1]/div/div/div[2]/div/div/div[3]/div/div/form/div/div/div[4]/div/div/span/button')
+button_enter.click()
+
+time.sleep(10)
+#driver.close()
